@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T19:58:52.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HRXWqD59g_jok-gaIxHz" version="20.8.5" type="github"><diagram id="czm5M8xYG2E-DqtazRyk" name="Страница 1">zZnZjpswFIafhstIXlgvJ1sXtZVaph31qqLgBiQSEHGapE9fY2xj48yo02pq5sJjfu/fObYPxMOr/eVVl7Xl+6YgtYdAcfHw2kPsL4TsX69cByUK/UHYdVUxSHAU0uoXESIQ6qkqyNGoSJumplVrinlzOJCcGlrWdc3ZrPajqc1R22xHLCHNs9pWH6qCloMao2jUX5NqV8qRYZgMJftMVhYrOZZZ0Zw1CW88vOqahg65/WVF6h6e5DK02z5SqibWkQP9owYfkh3Yvvn67WN4XH7+gkH6Ll+IXn5m9Uks+FMqpkuvkkHXnA4F6bsBHl6ey4qStM3yvvTMrM60ku5r9gRZVnRIOkouj84UqvUzxyHNntDuyqpcTNsLl0FAPJ9HA0BJtdTgh0LLhM13qucRC8sIMs+ghCxK99eWeUlXtdQ5LQwmuKBrXNh2KpLl7kmF/txI+TdIHen2xFvetdUTyOB/QbZITGTYObLAQuYx91neeWzJMeYp4ClbGOBFa54C83Gj1R96CJzDnu5k97DD27CHdCm49qnP01jTAwHbNVR/dh4c3YYacF9M+jRRvrsRDioe76TIUjzkF5oLb5zTjuK50Y4t2qf6u/uDdXoXuQclJ6D7pWtK083rY+eU7IiZb8BYOwxXMj9sTJYunZOc+pvvOydpR9XaJbLWzkQkb3XtWtFL0QS7OhyHfGR0OzdDBChwbQg7XuestuYtr26ZtaZsOXwVSUXi9uorQBl2zQx46P6ktcN+0/O1mHT0/H/xeSAfeVw8GncjTcz0lWyorNkbV7y5rWQfqp0WdIiJ8HbCHSIzKtGDxOCWW/Hxn4rXdQeMtSB0bcwBgbepnAJ85rKVjjSOa23AQA1yrwZBAlRfElrLUyuHWlFk2k4daDpQZXT32wfCvwxUIHix/WNH0HN7bVZf/eYT3tmB8Nyg4WB20JLZQ0PT99vENTQ52IyhwcmXFh+9HDT2OH7k52XaTyV48xs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-15T20:08:12.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HZxuUkLZr-GOXgnXKaZE" version="20.8.5" type="github">
+  <diagram id="czm5M8xYG2E-DqtazRyk" name="Страница 1">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-1" value="RS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-2" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1N9g0FIY_Q6sBUV30SLc-3" target="1N9g0FIY_Q6sBUV30SLc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1N9g0FIY_Q6sBUV30SLc-7" target="1N9g0FIY_Q6sBUV30SLc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-3" value="React" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-4" value="ещё какие-то модули" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-5" value="курс на ноуте" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-6" value="владилен" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-7" value="RedGroup" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-8" value="ulbi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-10" value="React" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-11" value="шаматы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="865" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-12" value="инетренет магазин" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="865" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-13" value="платная учёба" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="865" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-14" value="интернет магазин используя React, потому что делать на нативном JS с использованием TS тяжело без ментора" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="480" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-17" value="функциональное программирование" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-18" value="Async function (асинхронное программирование: применение async await)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N9g0FIY_Q6sBUV30SLc-19" value="RestFull Api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-6" value="База React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="390" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-7" value="React" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-8" value="React" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nkX9sOT6IGHWfc9UEw9B-9" value="Проекты для понимания как делать проекты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="570" width="410" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
